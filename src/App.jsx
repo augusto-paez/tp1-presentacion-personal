@@ -3,11 +3,11 @@ import SkillList from './components/SkillList';
 import Footer from './components/Footer';
 
 function App() {
-  const name = "Augusto Páez";
+  const name = "Augusto Paez";
   const phrase = "Desarrollador Web en formación | Apasionado por la tecnología";
 
   const handleGreetingClick = () => {
-    alert(`¡Gracias por visitar mi presentación personal, de parte de ${name}!`);
+    alert(`¡Gracias por visitar mi presentación personal!`);
   };
 
   return (
