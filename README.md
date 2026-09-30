@@ -3,6 +3,8 @@
 ## Qué es
 Página de presentación personal estática desarrollada con React y Tailwind CSS v4 como primera entrega del Sprint 1 de la Diplomatura Full Stack. Estructurada en componentes reutilizables con props, renderizado condicional y manejo de eventos.
 
+[Link netlify](https://presentacion-personal-augusto.netlify.app/)
+
 ## Cómo correrlo
 
 1. Clonar el repositorio:
